@@ -12,21 +12,33 @@ You are provided with a file input.txt that describes the current state of the g
 <Board state for player-1>
 <#stones in player-2’s mancala>
 <#stones in player-1’s mancala>
+
 Example:
 Input:
 1
+
 1
+
 2
+
 2 2 2 2
+
 2 2 2 2
+
 0
+
 0
 
 Output:
+
 2 2 0 2
+
 0 3 0 3
+
 0
+
 4
+
 Line-1 represents the board state for player-2, i.e. the upper side of the board. Each number is separated by a single white space.
 Line-2 represents the board state for player-1, i.e. the upper side of the board. Each number is separated by a single white space.
 Line-3 gives you the number of stones in player-2’s mancala.
