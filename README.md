@@ -5,7 +5,7 @@ The rules of the Mancala game can be found at https://en.wikipedia.org/wiki/Manc
 
 Input:
 You are provided with a file input.txt that describes the current state of the game.
-<Task#> Greedy=1, MiniMax=2, Alpha-Beta=3, Competition=4
+<Task#> Greedy=1, MiniMax=2, Alpha-Beta=3
 <Your player: 1 or 2>
 <Cutting off depth>
 <Board state for player-2>
